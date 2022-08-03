@@ -14,8 +14,8 @@ $annotation_links_path = "$root_path/olive_atlas/annotations";
 
 // header
 $dbTitle = "OliveAtlas";
-$header_img = "header_img.png";
-$db_logo = "egdb_logo.png";
+$header_img = "header_img3.jpg";
+$db_logo = "OxA_logo.png";
 
 // Toolbar
 $tb_about = 1;
