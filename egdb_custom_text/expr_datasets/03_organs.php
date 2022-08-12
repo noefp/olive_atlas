@@ -1,16 +1,16 @@
 <p>
-  RNA-seq of roots, stems, meristems, leaves, flowers, and fruits (epicarp and mesocarp)
+  RNA-seq of roots, stem, meristem, leaves, flowers, and fruits (epicarp and mesocarp)
   of three healthy 10-year-old olive trees under field conditions. All the samples were collected at the same time,
   except for fruits, which had to be collected later upon reaching the turning ripening state. 
 </p>
 <h4>Experimental Conditions (all in control conditions):</h4>
   <ul>
-    <li>Ripe fruit</li>
-    <li>Flower</li>
-    <li>Leaves</li>
-    <li>Meristem</li>
     <li>Roots</li>
     <li>Stem</li>
+    <li>Meristem</li>
+    <li>Leaves</li>
+    <li>Flowers</li>
+    <li>Fruits. Ripe olives</li>
   </ul>
 <p>
 
