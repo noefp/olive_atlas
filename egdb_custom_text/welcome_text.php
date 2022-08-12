@@ -1,22 +1,17 @@
       <h1>Welcome to <?php echo "$dbTitle";?> </h1>
       <h4 class="p_font18">
-        This is a template to write your own welcome page. 
-        Please, follow the instructions to create your own custom_text folder and include the path in the configuration file.
-        
+        The gene expression atlas for Olive tree (<i>Olea europaea L.</i>)
       </h4>
+      <br>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipiscing elit mus nisi vel risus semper sagittis vitae, 
-        luctus platea quisque cum nascetur sem ligula leo magnis cursus cubilia pulvinar. 
-        Habitasse praesent platea nunc pharetra laoreet etiam congue proin, nostra vehicula nec quis iaculis molestie integer diam viverra, 
-        primis nullam gravida massa tempor curae metus. Vitae vivamus nascetur eros mus viverra nostra fames sagittis faucibus donec, 
-        cubilia interdum volutpat augue nisl libero fermentum proin quisque, mollis erat facilisi posuere rutrum luctus quis imperdiet pretium.
+        OliveAtlas aims to provide interactive bioinformatics tools to explore gene expression data of olive tree.
+        The current version of OliveAtlas includes data for most of the main organs of the olive tree variety Picual
+        (leaves, flower, pollen, fruits, seeds, roots, stem, and meristem),
+        and multiple responses to biotic and abiotic stresses such as cold, wound and infection of <i>Verticillium dahliaea</i>.
       </p>
       <p>
-        Risus sollicitudin facilisis integer luctus hendrerit aliquet natoque senectus suspendisse, 
-        parturient facilisi laoreet tempor hac cum mi egestas ridiculus, accumsan lacinia inceptos diam commodo per bibendum nullam. 
-        Morbi blandit a suspendisse quis nascetur dignissim tellus, ante ad curabitur leo mauris taciti sollicitudin habitasse, 
-        diam pharetra euismod tristique aliquet nam. Dis nascetur vivamus justo libero platea interdum feugiat tellus, 
-        ad commodo nec etiam volutpat imperdiet viverra, habitasse suspendisse arcu porttitor lacinia iaculis aenean.
+        All the Picual expression data were analyzed based on the olive tree genome sequence published by <a href="https://doi.org/10.1002/tpg2.20010" target="_blank">Jiménez-Ruiz et al., 2020</a> 
+        and all data are linked to sequences and annotations available at the <a href="https://genomaolivar.dipujaen.es/" target="_blank">OliveTreeDB</a>.
       </p>
-      <img class='rounded' src='<?php echo "$images_path/header_img.jpg";?>' width="900px" alt='img example'>
+      <img class='rounded' src='<?php echo "$images_path/header_img7.jpg";?>' width="900px" alt='img example'>
       

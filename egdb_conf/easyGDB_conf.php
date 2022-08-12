@@ -40,7 +40,7 @@ $expr_menu = 1;
 
 // About
 $ab_citation = 1;
-$ab_labs = 1;
+$ab_labs = 0;
 
 //Gene examples
 $gene_sample = "";
