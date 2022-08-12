@@ -5,11 +5,21 @@
 
 <h4>Experimental Conditions:</h4>
 <ul>
-  <li>Leaves control.</li>
-  <li>Leaves cold 24h. Leaves after 24 hours in cold conditions.</li>
-  <li>Leaves cold 10d. Leaves after 10 days in cold conditions.</li>
+  <li>Leaves control. (A).</li>
+  <li>Leaves cold 24h. Leaves after 24 hours in cold conditions. (B).</li>
+  <li>Leaves cold 10d. Leaves after 10 days in cold conditions. (F).</li>
 </ul>
 
+<img class='rounded' src='<?php echo "$images_path/expr/cold_phenotype.jpeg";?>' width="1000px" alt='cold phenotype'>
+
+<p style="width:1000px">
+  (A) Control plant; 
+  (B) cold-stressed plant during 1 day; 
+  (C) cold-stressed plant during 2 days; 
+  (D) cold-stressed plant during 3 days; 
+  (E) almost fully recovered plant after 6 days of cold stress; 
+  (F) fully recovered plant after 10 days of cold stress. Plants show flaccid leaved and stresed phenotype in B and is progessively recovering from D to F.
+</p>
 
 <p>
   The plant samples employed for this study were obtained from The plants were obtained from a commercial nursery located in Córdoba province, Spain.
