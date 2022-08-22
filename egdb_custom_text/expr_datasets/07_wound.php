@@ -14,7 +14,7 @@
 
 
 <p>
-  The plant samples employed for this study were obtained from The plants were obtained from a commercial nursery located in Córdoba province, Spain.
+  The plant samples employed for this study were obtained from a commercial nursery located in Córdoba province, Spain.
   Two biological replicates per sample were sequenced.
   cDNA libraries were sequenced by PE sequencing (100 x 2) with an Illumina HiSeq 1000 sequencer and normalized to TPM.
 </p>

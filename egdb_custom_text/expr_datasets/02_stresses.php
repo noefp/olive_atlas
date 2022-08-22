@@ -20,12 +20,13 @@
   <li>Roots Verticillium 15d. Roots infected with Verticillium for 15 days.</li>
   <li>Roots wound 8h. Roots wounded, after 8 hours.</li>
   <li>Roots wound 24h. Roots wounded, after 24 hours.</li>
+  <li>Roots wound 48h. Roots wounded, after 48 hours.</li>
   <li>Roots wound 7d. Roots wounded, after 7 days.</li>
 </ul>
 
 
 <p>
-  The plant samples employed for this study were obtained from The plants were obtained from a commercial nursery located in Córdoba province, Spain.
+  The plant samples employed for this study were obtained from a commercial nursery located in Córdoba province, Spain.
   Two biological replicates per sample were sequenced.
   cDNA libraries were sequenced by PE sequencing (100 x 2) with an Illumina HiSeq 1000 sequencer and normalized to TPM.
 </p>
