@@ -18,6 +18,17 @@
     <li><span style="color:blue;">Embryo.</span> 3 replicates.</li>
   </ul>
 <p>
+  
+  <img class='rounded' src='<?php echo "$images_path/expr/roots_4_months.jpeg";?>' width="200px" alt='roots 4 months'>
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_stem.jpeg";?>' width="200px" alt='stem'>
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_meristem.jpeg";?>' width="200px" alt='meristem'>
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_leaves.jpeg";?>' width="200px" alt='leaves'>
+  <img class='rounded' src='<?php echo "$images_path/expr/leaves_control.jpeg";?>' width="200px" alt='leaves 4 month'>
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_flowers.jpeg";?>' width="200px" alt='flowers'>
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_fruits.jpeg";?>' width="200px" alt='olives'>
+  
+  From left to right are shown figures of Picual 4 month old roots, stem, meristem, leaves, 4 month old leaves, flowers, and fruits.
+  
   <span style="color:green;">Leaves and Roots</span> (in green) are control samples from 4 month old potted plants in conditions as published by <a href="https://doi.org/10.1093/dnares/dsu033" target="_blank">Leyva-Pérez et al., 2015</a>.
   <span style="color:blue;">Seed, Embryo and Testa+endosperm</span> (in blue) are control samples in conditions as published by <a href="#" target="_blank">??? et al., 2022. In preparation</a>.
   <span style="color:orange;">Pollen</span> samples correspond to mature pollen in conditions as published by <a href="#" target="_blank">Bullones et al., 2022. In preparation</a>.
