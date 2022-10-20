@@ -9,6 +9,10 @@
     <li>Testa+Endosperm.</li>
     <li>Embryo.</li>
   </ul>
+  
+  <img class='rounded' src='<?php echo "$images_path/expr/picual_seed.jpeg";?>' width="200px" alt='olive seed'>
+  
+  
 <p>
   Olive fruits were collected 210 days after anthesis from adult olive trees growing at 
   the Estación Experimental del Zaidín in Granada, Spain. 
