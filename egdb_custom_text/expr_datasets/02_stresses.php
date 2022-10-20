@@ -24,6 +24,15 @@
   <li>Roots wound 7d. Roots wounded, after 7 days.</li>
 </ul>
 
+<img class='rounded' src='<?php echo "$images_path/expr/leaves_control.jpeg";?>' width="200px" alt='leaves control'>
+<img class='rounded' src='<?php echo "$images_path/expr/leaves_cold_24h.jpeg";?>' width="200px" alt='leaves cold 24h'>
+<img class='rounded' src='<?php echo "$images_path/expr/leaves_cold_10d.jpeg";?>' width="200px" alt='leaves cold 10d'>
+<img class='rounded' src='<?php echo "$images_path/expr/roots_4_months.jpeg";?>' width="200px" alt='roots control'>
+
+
+<p>
+  4 month old Picual plants in stress conditions, from left to right: Leaves control, leaves in cold stress conditions for 24 hours, leaves in cold stress conditions for 10 days infected with Verticillium, and roots in control condition.
+</p>
 
 <p>
   The plant samples employed for this study were obtained from a commercial nursery located in Córdoba province, Spain.
