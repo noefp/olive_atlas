@@ -44,9 +44,9 @@ $ab_labs = 0;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="gene1.1
-gene2.1
-gene3.1";
+$input_gene_list="Oleur061Scf2145g00022.1
+Oleur061Scf2075g02039.1
+Oleur061Scf2086g01023.1";
 
 
 // Tools
