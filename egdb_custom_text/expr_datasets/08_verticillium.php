@@ -14,6 +14,9 @@
   <li>Roots Verticillium 15d. Roots infected with Verticillium for 15 days.</li>
 </ul>
 
+<img class='rounded' src='<?php echo "$images_path/expr/verticillium_control.jpeg";?>' width="200px" alt='Verticillium leaves control'>
+<img class='rounded' src='<?php echo "$images_path/expr/verticillium_infected.jpeg";?>' width="200px" alt='Verticillium infection leaves'>
+
 
 <p>
   The plant samples employed for this study were obtained from a commercial nursery located in Córdoba province, Spain.
