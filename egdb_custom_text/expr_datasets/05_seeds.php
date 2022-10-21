@@ -4,14 +4,17 @@
   The seed tissues (testa + endosperm and embryo) were dissected with a scalpel.
 </p>
 <h4>Experimental Conditions:</h4>
-  <ul>
-    <li>Seeds. The complete seed.</li>
-    <li>Testa+Endosperm.</li>
-    <li>Embryo.</li>
-  </ul>
-  
-  <img class='rounded' src='<?php echo "$images_path/expr/picual_seed.jpeg";?>' width="200px" alt='olive seed'>
-  
+<ul>
+  <li>Seeds. The complete seed.</li>
+  <li>Testa+Endosperm.</li>
+  <li>Embryo.</li>
+</ul>
+
+<img class='rounded' src='<?php echo "$images_path/expr/seed_experiment.png";?>' width="350px" alt='olive seed experiment'>
+
+<p>
+  Experimental samples were extracted from seeds on the left, seed testa and endosperm in the middle, and embryos on the right.
+</p>
   
 <p>
   Olive fruits were collected 210 days after anthesis from adult olive trees growing at 

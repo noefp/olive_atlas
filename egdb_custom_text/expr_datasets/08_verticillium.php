@@ -18,7 +18,7 @@
 <img class='rounded' src='<?php echo "$images_path/expr/verticillium_infected.jpeg";?>' width="200px" alt='Verticillium infection leaves'>
 
 <p>
-  4 month old Picual plants in control conditions (left) and infected with Verticillium (right).
+  Picual plants in control conditions (left) and infected with Verticillium (right).
 </p>
 
 <p>

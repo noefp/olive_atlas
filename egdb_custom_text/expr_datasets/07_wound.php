@@ -12,6 +12,13 @@
   <li>Roots wound 7d. Roots wounded, after 7 days.</li>
 </ul>
 
+<img class='rounded' src='<?php echo "$images_path/expr/leaves_control.jpeg";?>' width="200px" alt='leaves control'>
+<img class='rounded' src='<?php echo "$images_path/expr/roots_4_months.jpeg";?>' width="200px" alt='roots control'>
+
+<p>
+  4 month old Picual plants in control conditions, leaves on the left and roots on the right.
+</p>
+
 
 <p>
   The plant samples employed for this study were obtained from a commercial nursery located in Córdoba province, Spain.

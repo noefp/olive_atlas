@@ -5,14 +5,14 @@
 
 <h4>Cultivars grouped by their resistance or susceptibility to the fungal plant pathogen <i>Verticillium dahliae</i>:</h4>
 <ul>
-  <li>Highly Resistant: Frantoio, Manzanillera de Huercal Overa.
-  <li>Resistant: Dokkar, Koroneiki, Leccino, Maarri, Maureya, Uslu.
-  <li>Moderately Susceptible: Arbequina, Barnea, Barri, Klon 14, Manzanilla de Sevilla,
-		Morrut, Myrtolia, Picual, Picudo, Piñonera, Verdial de Vélez Málaga.
-  <li>Susceptible: Abbadi Abou Gabra, Abou Salt Mohazam, Chemlal de Kabylie, Llumeta, Menya, Temprano.
-  <li>Extremely Susceptible: Jabali, Mastoidis.
+  <li>Highly Resistant: Frantoio, Manzanillera de Huercal Overa.</li>
+  <li>Resistant: Dokkar, Koroneiki, Leccino, Maarri, Maureya, Uslu.</li>
+  <li>Moderately Susceptible: Arbequina, Barnea, Barri, Fishomi, Klon 14, Manzanilla de Sevilla.</li>
+		Lianolia Kerkyras, Morrut, Myrtolia, Picual, Picudo, Piñonera, Verdial de Vélez Málaga.</li>
+  <li>Susceptible: Abbadi Abou Gabra, Abou Salt Mohazam, Chemlal de Kabylie, Llumeta, Menya, Temprano.</li>
+  <li>Extremely Susceptible: Jabali, Mastoidis.</li>
+  <li>Not clear phenotype: Abou Kanani, Forastera de Tortosa, Grappolo, Kalamon, Majhol-1013, Majhol-152, Mari, Megaritiki y Shengeh.</li>
 </ul>
-
 
 <p>
   The plant samples employed for this study were collected at the World Olive Germplasm Bank at IFAPA Centro 'Alameda del Obispo'

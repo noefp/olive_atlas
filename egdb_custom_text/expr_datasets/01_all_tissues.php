@@ -27,10 +27,12 @@
 <img class='rounded' src='<?php echo "$images_path/expr/leaves_control.jpeg";?>' width="200px" alt='leaves 4 month'>
 <img class='rounded' src='<?php echo "$images_path/expr/picual_flowers.jpeg";?>' width="200px" alt='flowers'>
 <img class='rounded' src='<?php echo "$images_path/expr/picual_fruits.jpeg";?>' width="200px" alt='olives'>
-<img class='rounded' src='<?php echo "$images_path/expr/picual_seed.jpeg";?>' width="200px" alt='olive seed'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_seeds.jpeg";?>' width="200px" alt='olive seeds'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_testa.jpeg";?>' width="200px" alt='olive testa'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_embryos.jpeg";?>' width="200px" alt='olive embryos'>
   
 <p>
-  From left to right are shown figures of Picual 4 month old roots, stem, meristem, leaves, 4 month old leaves, flowers, fruits, and seed.
+  From left to right are shown figures of Picual 4 month old roots, stem, meristem, leaves, 4 month old leaves, flowers, fruits, seeds, seed testa + endosperm, and embryos.
 </p>
 <p>
   <span style="color:green;">Leaves and Roots</span> (in green) are control samples from 4 month old potted plants in conditions as published by <a href="https://doi.org/10.1093/dnares/dsu033" target="_blank">Leyva-Pérez et al., 2015</a>.
