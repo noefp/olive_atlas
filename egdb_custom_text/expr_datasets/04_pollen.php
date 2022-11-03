@@ -14,13 +14,13 @@
   <li>Pollen germ 6h. Pollen after 6 hours of germination.</li>
 </ul>
   
-<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_0.jpeg";?>' width="350px" alt='pollen'>
-<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_1.jpeg";?>' width="350px" alt='pollen'>
-<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_2.jpeg";?>' width="350px" alt='pollen'>
-<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_3.jpeg";?>' width="350px" alt='pollen'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_0.jpeg";?>' width="200px" alt='pollen'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_1.jpeg";?>' width="200px" alt='pollen'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_2.jpeg";?>' width="200px" alt='pollen'>
+<img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_3.jpeg";?>' width="200px" alt='pollen'>
 
 <p>
-  Images of pollen tube growth. From left to right, rehydrated mature pollen, and pollen tube growth at 1, 3 and 6 hours after of germination
+  Images of pollen tube growth. From left to right, rehydrated mature pollen, and pollen tube growth at 1, 3 and 6 hours after of germination.
 </p>
 
 <p>
