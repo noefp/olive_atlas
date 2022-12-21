@@ -15,9 +15,8 @@
 </ul>
 
 <p>
-  The plant samples employed for this study were collected at the World Olive Germplasm Bank at IFAPA Centro 'Alameda del Obispo'
-  located in Córdoba province, Spain.
-  Two biological replicates per sample were sequenced.
+  Root samples of 58 adult plants corresponding to 29 olive cultivars (two biological replicates each) were collected at the World Olive Germplasm Bank at IFAPA Centro ‘Alameda del Obispo’ located in Córdoba province, Spain. The olive trees under study were all adults, in productive stage and in good phytosanitary conditions without any disease symptoms. Their age ranged from 14 to 20 years old.
+  They were randomly planted at 7 × 7 m spacing in alkaline loam and sandy-loam soil. Samples were obtained around 30 to 40 cm from the trunk. Two biological replicates per sample were sequenced. 
   cDNA libraries were sequenced by PE sequencing (100 x 2) with an Illumina HiSeq 2500 sequencer and normalized to RPKM.
 </p>
 <p>
