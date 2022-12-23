@@ -23,11 +23,12 @@
 <h2>Funding</h2>
 <p>
   This project was possible thanks to the next funding agencies and projects: 
-  Junta de Andalucía Emergia program [EMERGIA20_00286], Ministerio de Ciencia e Innovación (MICINN) [RYC2020-030219-I], [PID2021-125805OA-I00] and CSIC-MICINN [20224AT004]
+  <!-- Junta de Andalucía Emergia program [EMERGIA20_00286],  -->
+  Ministerio de Ciencia e Innovación (MICINN) [RYC2020-030219-I], [PID2021-125805OA-I00] and CSIC-MICINN [20224AT004]
 </p>
 
 <div style="margin:20px">
-  <img class='rounded funding_logo' src='<?php echo "$images_path/logos/junta_logo.png";?>' height="70px" alt='Logo Junta de Andalucia'>
+  <!-- <img class='rounded funding_logo' src='<?php// echo "$images_path/logos/junta_logo.png";?>' height="70px" alt='Logo Junta de Andalucia'> -->
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/RyC_logo.png";?>' height="90px" alt='Logo financiacion RyC'>
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/csic_logo.png";?>' height="70px" alt='Logo CSIC'>
 </div>
