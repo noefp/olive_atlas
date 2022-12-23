@@ -5,7 +5,7 @@
 
     <div class="card bg-light" style="height:100px">
       <div class= "card-body">
-        Amanda Bullones, Antonio Jesús Castro, Elena Lima-Cabello, Juan de Dios Alché, Francisco Luque, M. Gonzalo Claros, Noe Fernandez-Pozo (2022).
+        Bullones A, Lima-Cabello E, Castro AJ, Alché JD, Luque F, Claros MG, Fernandez-Pozo N (2023).
         OliveAtlas: a gene expression atlas for <i>Olea europaea</i>.<br>
         <a href="paper_link" target="blank">Journal, 1(1), 111</a><br>
       </div>
