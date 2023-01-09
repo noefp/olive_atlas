@@ -10,8 +10,8 @@
   <li>Stem</li>
   <li>Meristem</li>
   <li>Leaves</li>
-  <li>Flowers</li>
-  <li>Fruits. Ripe olives</li>
+  <li>Flowers: Recently bloomed whole flowers</li>
+  <li>Fruits: Reaching the turning ripening state</li>
 </ul>
 
 
