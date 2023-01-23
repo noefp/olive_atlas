@@ -5,7 +5,7 @@
   Petri dishes were maintained at room temperature in the dark and under gentle agitation. 
   Pollen grains were sampled at 1, 3 and 6 hours after transfer to the in vitro germination medium.
 </p>
-<h4>Experimental Conditions:</h4>
+<h4>Experimental Conditions (3 biological replicates):</h4>
 
 <ul>
   <li>Pollen. Mature pollen.</li>

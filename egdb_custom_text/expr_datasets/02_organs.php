@@ -3,15 +3,15 @@
   of three healthy 10-year-old olive trees under field conditions. All the samples were collected at the same time,
   except for fruits, which had to be collected later upon reaching the turning ripening state. 
 </p>
-<h4>Experimental Conditions (all in control conditions):</h4>
+<h4>Experimental Conditions (all in control conditions with 2 biological replicates):</h4>
 
 <ul>
   <li>Roots</li>
   <li>Stem</li>
   <li>Meristem</li>
   <li>Leaves</li>
-  <li>Flowers: Recently bloomed whole flowers</li>
-  <li>Fruits: Reaching the turning ripening state</li>
+  <li>Flowers: Recently bloomed whole flowers (at anthesis).</li>
+  <li>Fruits: Reaching the turning ripening state, veraison.</li>
 </ul>
 
 

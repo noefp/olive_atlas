@@ -3,7 +3,7 @@
   in good phytosanitary conditions without any disease symptoms.
 </p>
 
-<h4>Cultivars grouped by their resistance or susceptibility to the fungal plant pathogen <i>Verticillium dahliae</i>:</h4>
+<h4>Cultivars grouped by their resistance or susceptibility to the fungal plant pathogen <i>Verticillium dahliae</i> (2 biological replicates):</h4>
 <ul>
   <li>Highly Resistant: Frantoio, Manzanillera de Huercal Overa.</li>
   <li>Resistant: Dokkar, Koroneiki, Leccino, Maarri, Maureya, Uslu.</li>

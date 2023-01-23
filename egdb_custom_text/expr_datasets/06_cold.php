@@ -3,7 +3,7 @@
   with 10°C during the day and 4°C in the night, with 14 hours photoperiod.
 </p>
 
-<h4>Experimental Conditions:</h4>
+<h4>Experimental Conditions (2 biological replicates):</h4>
 <ul>
   <li>Leaves control. (A).</li>
   <li>Leaves cold 24h. Leaves after 24 hours in cold conditions. (B).</li>

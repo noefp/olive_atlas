@@ -4,7 +4,7 @@
   The infection was performed by root-dip inoculation in a conidia suspension of a <i>Verticillium dahliae</i> isolate representative of the so-called defoliating pathotype.
 </p>
 
-<h4>Experimental Conditions:</h4>
+<h4>Experimental Conditions (2 biological replicates):</h4>
 <ul>
   <li>Leaves control.</li>
   <li>Leaves Verticillium 15d. Leaves infected with Verticillium for 15 days.</li>

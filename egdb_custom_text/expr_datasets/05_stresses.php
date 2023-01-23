@@ -7,7 +7,7 @@
   Cold stress conditions were 10°C during the day and 4°C in the night, with 14 hours photoperiod.
 </p>
 
-<h4>Experimental Conditions:</h4>
+<h4>Experimental Conditions (2 biological replicates):</h4>
 <ul>
   <li>Leaves control.</li>
   <li>Leaves Verticillium 15d. Leaves infected with Verticillium for 15 days.</li>

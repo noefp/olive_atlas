@@ -2,7 +2,7 @@
   RNA-seq of leaves and roots from 4 month old potted olive plants in control conditions and with wounded roots.
 </p>
 
-<h4>Experimental Conditions:</h4>
+<h4>Experimental Conditions (2 biological replicates):</h4>
 <ul>
   <li>Leaves control.</li>
   <li>Leaves root wound 15d. Leaves of plants with wounds in roots, after 15 days.</li>

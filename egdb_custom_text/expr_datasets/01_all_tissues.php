@@ -11,12 +11,12 @@
   <li>Meristem.</li>
   <li>Leaves.</li>
   <li><span style="color:green;">Leaves 4 month.</span></li>
-  <li>Flowers: Recently bloomed whole flowers.</li>
+  <li>Flowers: Recently bloomed whole flowers (at anthesis).</li>
   <li><span style="color:orange;">Pollen.</span> 3 replicates of mature pollen.</li>
-  <li>Fruits: Reaching the turning ripening state.</li>
-  <li><span style="color:blue;">Seed.</span> Only 1 replicate.</li>
-  <li><span style="color:blue;">Testa+endosperm.</span> 3 replicates.</li>
-  <li><span style="color:blue;">Embryo.</span> 3 replicates.</li>
+  <li>Fruits: Reaching the turning ripening state, veraison.</li>
+  <li><span style="color:blue;">Seed.</span> Mature seed (whole), 1 replicate.</li>
+  <li><span style="color:blue;">Testa+endosperm.</span> Endosperm and seed coat (testa), 3 replicates.</li>
+  <li><span style="color:blue;">Embryo.</span> Mature embryo, 3 replicates.</li>
 </ul>
 
   
