@@ -10,7 +10,7 @@
   <li>Embryo. Mature embryo, 3 replicates.</li>
 </ul>
 
-<img class='rounded' src='<?php echo "$images_path/expr/seed_experiment.png";?>' width="350px" alt='olive seed experiment'>
+<!-- <img class='rounded' src='<?php //echo "$images_path/expr/seed_experiment.png";?>' width="350px" alt='olive seed experiment'> -->
 <img class='rounded' src='<?php echo "$images_path/expr/picual_seeds.jpeg";?>' width="200px" alt='olive seeds'>
 <img class='rounded' src='<?php echo "$images_path/expr/picual_testa.jpeg";?>' width="200px" alt='olive testa'>
 <img class='rounded' src='<?php echo "$images_path/expr/picual_embryos.jpeg";?>' width="200px" alt='olive embryos'>
@@ -26,5 +26,5 @@
   Data shown were normalized to TPM.
 </p>
 <p>
-  This dataset will be published by <a href="#" target="_blank">??? et al., 2022 (In preparation)</a>.
+  This dataset in unpublished and the manuscript is in preparation. Please, do not use this data without the consent of the authors of OliveAtlas.
 </p>
