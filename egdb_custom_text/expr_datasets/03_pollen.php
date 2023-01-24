@@ -20,7 +20,7 @@
 <img class='rounded' src='<?php echo "$images_path/expr/picual_pollen_3.jpeg";?>' width="200px" alt='pollen'>
 
 <p>
-  Images of pollen tube growth. From left to right, mature pollen, and pollen tube growth at 1, 3 and 6 hours after of germination.
+  Images of Picual pollen grains at different stages of in vitro germination. From left to right, mature rehydrated pollen, and germinated pollen tat 1, 3 and 6 hours of culture.
 </p>
 
 <p>

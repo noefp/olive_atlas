@@ -16,7 +16,7 @@
 <img class='rounded' src='<?php echo "$images_path/expr/picual_embryos.jpeg";?>' width="200px" alt='olive embryos'>
 
 <p>
-  Experimental samples were extracted from seeds on the left, seed testa and endosperm in the middle, and embryos on the right.
+  Images of Picual seeds. Form left to right, whole mature seeds, seed coat (testa) and endosperm tissues, and mature embryos.
 </p>
   
 <p>
