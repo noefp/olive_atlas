@@ -5,8 +5,8 @@
 
     <div class="card bg-light" style="height:100px">
       <div class= "card-body">
-        Bullones A, Lima-Cabello E, Castro AJ, Alché JD, Luque F, Claros MG, Fernandez-Pozo N (2023).
-        OliveAtlas: a gene expression atlas for <i>Olea europaea</i>.<br>
+        Bullones A, Castro AJ, Lima-Cabello E, Alché JD, Luque F, Claros MG, Fernandez-Pozo N (2023).
+        OliveAtlas: A gene expression atlas tool for <i>Olea europaea</i>.<br>
         <a href="paper_link" target="blank">Journal, 1(1), 111</a><br>
       </div>
     </div>
