@@ -26,5 +26,5 @@
   Data shown were normalized to TPM.
 </p>
 <p>
-  This dataset in unpublished and the manuscript is in preparation. Please, do not use this data without the consent of the authors of OliveAtlas.
+  <b>Note:</b> This dataset is unpublished and the manuscript is in preparation. The gene expression data of endosperm and embryo samples will be released after publication.
 </p>
