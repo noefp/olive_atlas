@@ -1,7 +1,7 @@
 <p class="p_font18">
   The <b>OliveAtlas</b> was developed by researchers from three Spanish research centers: the <a href="https://www.ihsm.uma-csic.es/" target="_blank">Institute for Mediterranean and Subtropical Horticulture "La Mayora" (IHSM-UMA-CSIC)</a>, 
   the <a href="https://www.eez.csic.es/" target="_blank">Estación Experimental del Zaidín (EEZ-CSIC)</a> and 
-  the <a href="https://inuouja.com/en/home-2/" target="_blank">Center for Advanced Studies in Olive Grove and Olive Oils, Universidad de Jaén (INUOUJA)</a>.
+  the <a href="https://inuouja.com/en/home-2/" target="_blank">University Institute of Research on Olive Grove and Olive Oils (INUOUJA)</a>.
 </p>
 <br>
 <p>
@@ -41,14 +41,14 @@
 <h2>Funding</h2>
 <p>
   This project was possible thanks to the next funding agencies and projects: 
-  <!-- Junta de Andalucía Emergia program [EMERGIA20_00286],  -->
-  Ministerio de Ciencia e Innovación (MICINN) [RYC2020-030219-I], [PID2021-125805OA-I00] and CSIC-MICINN [20224AT004]
+  Junta de Andalucía (EMERGIA20_00286, P18-RT-1577, PYC20 RE 009 CSIC. EEZ y UMA20-FEDERJA-029), and 
+  Ministerio de Ciencia e Innovación (MICINN) (RYC2020-030219-I, PID2021-125805OA-I00, 20224AT004, PID2020-113324GB-100, TED2021-130015B-C21 and TED2021-130015B-C22).
 </p>
 
 <div style="margin:20px">
-  <!-- <img class='rounded funding_logo' src='<?php// echo "$images_path/logos/junta_logo.png";?>' height="70px" alt='Logo Junta de Andalucia'> -->
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/RyC_logo.png";?>' height="90px" alt='Logo financiacion RyC'>
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/csic_logo.png";?>' height="70px" alt='Logo CSIC'>
+  <img class='rounded funding_logo' src='<?php echo "$images_path/logos/junta_feder_logo.png";?>' height="90px" alt='Logo Junta de Andalucia'>
 </div>
 <hr>
 <h2>How to cite OliveAtlas</h2>
