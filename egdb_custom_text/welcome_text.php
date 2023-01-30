@@ -13,5 +13,4 @@
         All the Picual expression data were analyzed based on the olive tree genome sequence published by <a href="https://doi.org/10.1002/tpg2.20010" target="_blank">Jiménez-Ruiz et al., 2020</a> 
         and all data are linked to sequences and annotations available at the <a href="https://genomaolivar.dipujaen.es/" target="_blank">OliveTreeDB</a>.
       </p>
-      <img class='rounded' src='<?php echo "$images_path/header_img7.jpg";?>' width="900px" alt='img example'>
-      
+      <img class='rounded' src='<?php echo "$images_path/header_img7.jpg";?>' style="width: 100%; max-width: 900px;" alt='img example'>
