@@ -3,7 +3,7 @@
 
     <h4>Please, when using this web site or its data, cite us using the reference:</h4>
 
-    <div class="card bg-light" style="height:100px">
+    <div class="card bg-light" style="padding: 1rem;">
       <div class= "card-body">
         Bullones A, Castro AJ, Lima-Cabello E, Alché JD, Luque F, Claros MG, Fernandez-Pozo N (2023).
         OliveAtlas: A gene expression atlas tool for <i>Olea europaea</i>.<br>
