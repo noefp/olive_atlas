@@ -14,24 +14,19 @@
 
 <center>
   <div class="row">
-    <div class="col">
+    <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4"  style="margin-bottom:20px">
       <a href="https://www.ihsm.uma-csic.es/" target="_blank"><img class='rounded' src='<?php echo "$images_path/IHSM.jpg";?>' width="100%" alt='IHSM-UMA-CSIC'></a>
-    </div>
-    <div class="col">
-      <a href="https://www.eez.csic.es/" target="_blank"><img class='rounded' src='<?php echo "$images_path/EEZ.jpeg";?>' width="100%" alt='EEZ-CSIC'></a>
-    </div>
-    <div class="col">
-      <a href="https://inuouja.com/en/home-2/" target="_blank"><img class='rounded' src='<?php echo "$images_path/UJA.jpg";?>' width="100%" alt='INUOUJA'></a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
+      <br>
       IHSM-UMA-CSIC
     </div>
-    <div class="col">
+    <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4"  style="margin-bottom:20px">
+      <a href="https://www.eez.csic.es/" target="_blank"><img class='rounded' src='<?php echo "$images_path/EEZ.jpeg";?>' width="100%" alt='EEZ-CSIC'></a>
+      <br>
       EEZ-CSIC
     </div>
-    <div class="col">
+    <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4"  style="margin-bottom:20px">
+      <a href="https://inuouja.com/en/home-2/" target="_blank"><img class='rounded' src='<?php echo "$images_path/UJA.jpg";?>' width="100%" alt='INUOUJA'></a>
+      <br>
       INUOUJA
     </div>
   </div>
@@ -45,11 +40,14 @@
   Ministerio de Ciencia e Innovación (MICINN) (RYC2020-030219-I, PID2021-125805OA-I00, 20224AT004, PID2020-113324GB-100, TED2021-130015B-C21 and TED2021-130015B-C22).
 </p>
 
-<div style="margin:20px">
+<center>
+<div>
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/RyC_logo.png";?>' height="90px" alt='Logo financiacion RyC'>
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/csic_logo.png";?>' height="70px" alt='Logo CSIC'>
   <img class='rounded funding_logo' src='<?php echo "$images_path/logos/junta_feder_logo.png";?>' height="90px" alt='Logo Junta de Andalucia'>
 </div>
+</center>
+
 <hr>
 <h2>How to cite OliveAtlas</h2>
 
@@ -66,8 +64,10 @@
 <style>
   
   .funding_logo {
-    margin:20px;
+    margin-right:20px;
+    margin-bottom:20px;
   }
+ 
   #contact_link {
     color: #007bff;
     cursor: pointer;
