@@ -1,6 +1,6 @@
 <p>
-	RNA-seq of wood of twelve 3-year-old olive plants corresponding to Souri cultivar in pots under 90 days of seasonal spring to summer warming.
-	Six trees out of twelve were exposed to limited water conditions for 28 days. The six watered trees were irrigated continuosly.
+	RNA-seq of wood from branches of twelve 3-year-old olive plants corresponding to Souri cultivar in pots under 90 days of seasonal spring to summer warming.
+	Six trees out of twelve were exposed to limited water conditions for 28 days. The six watered trees were irrigated continuously.
 	Samples were collected at four time-points: day -3 (baseline), day 13 (heat wave and early drought), day 27 (late drought) and day 80 (post-drought).
 </p>
 
