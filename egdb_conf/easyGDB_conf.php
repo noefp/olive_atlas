@@ -19,8 +19,8 @@ $header_img = "header_img3.jpg";
 $db_logo = "OxA_logo.png";
 
 // Toolbar
-$tb_about = 1;
-$tb_downloads = 1;
+$tb_about = 0;
+$tb_downloads = 0;
 $tb_species = 0;
 $tb_search_box = 0;
 $tb_tools = 0;
@@ -30,7 +30,7 @@ $tb_jbrowse = 0;
 $tb_seq_ext = 0;
 $tb_annot_ext = 0;
 $tb_gene_expr = 0;
-$tb_lookup = 1;
+$tb_lookup = 0;
 $tb_more = 0;
 $tb_custom = 1;
 
