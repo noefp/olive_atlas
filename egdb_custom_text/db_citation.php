@@ -7,7 +7,7 @@
       <div class= "card-body" style="padding: 1rem;">
         Bullones A, Castro AJ, Lima-Cabello E, Alché JD, Luque F, Claros MG, Fernandez-Pozo N (2023).
         OliveAtlas: A gene expression atlas tool for <i>Olea europaea</i>.<br>
-        <a href="paper_link" target="blank">Journal, 1(1), 111</a><br>
+        <a href="https://doi.org/10.3390/plants12061274" target="_blank">Plants 2023, 12(6), 1274 </a><br>
       </div>
     </div>
 
