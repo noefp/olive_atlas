@@ -5,6 +5,7 @@ $egdb_files_folder = "olive_atlas";
 $easy_gdb_path = "$root_path/easy_gdb";
 $blast_dbs_path = "$root_path/blast_dbs";
 $expression_path = "$root_path/expression_data/olivo";
+$private_expression_path = "$root_path/private_expression_data/olivo";
 $downloads_path = "downloads";
 $lookup_path = "$root_path/lookup"; //from root 
 $images_path = "/$egdb_files_folder/egdb_images";
