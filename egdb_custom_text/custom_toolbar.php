@@ -32,5 +32,9 @@
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/db/otdb_fasta_download.php" target="_blank">Sequence Extraction</a>
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/db/otdb_annot_input_list.php" target="_blank">Annotation Extraction</a>
   </div>
+	<li class="nav-item dropdown">
+	  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
+	  <div class="dropdown-menu">
+			<a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php" target="_blank">Private Expression Atlas</a>
+		</div>
 </li>
-
