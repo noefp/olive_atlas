@@ -1,0 +1,17 @@
+{
+  "logos":
+    [
+      { "image":"ihsm_logo.png",
+        "link":"https://www.ihsm.uma-csic.es/",
+        "height":"60"
+      },
+      { "image":"UMA_logo.png",
+        "link":"https://www.uma.es/",
+        "height":"60"
+      },
+      { "image":"csic_logo.png",
+        "link":"https://www.csic.es/en",
+        "height":"60"
+      }
+    ]
+}

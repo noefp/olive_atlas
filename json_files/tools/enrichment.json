@@ -1,0 +1,27 @@
+{
+  "A.thaliana":
+    {"gprofiler_sps" : "athaliana",
+      "lookup_files":
+      [
+        "Best BLAST hit between Picual and Arabidopsis.txt",
+        "Best BLAST hit between FargaOE9 and Arabidopsis.txt",
+        "Best BLAST hit between Wild olive and Arabidopsis.txt"
+      ]
+    },
+  "O. europaea 'Farga'":
+    {"gprofiler_sps" : "oeuropaea",
+      "lookup_files":
+      [
+        "Best BLAST hit between Picual and FargaOE9.txt",
+        "Best BLAST hit between Wild olive and FargaOE9.txt"
+      ]
+    },
+  "O. europaea var. sylvestris":
+    {"gprofiler_sps" : "oesylvestris",
+      "lookup_files":
+      [
+        "Best BLAST hit between Picual and Wild olive Phytozome.txt",
+        "Best BLAST hit between Picual and Wild olive GenBank.txt"
+      ]
+    }
+}

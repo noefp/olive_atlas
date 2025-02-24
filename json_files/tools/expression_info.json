@@ -1,0 +1,193 @@
+{
+  "01 Picual all tissues.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"01_all_tissues.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Roots":"root_control_drawing.jpg",
+          "Roots 4 months":"roots_4_months.jpeg",
+          "Stem":"picual_stem.jpeg",
+          "Meristem":"picual_meristem.jpeg",
+          "Leaves":"picual_leaves.jpeg",
+          "Leaves 4 months":"leaves_control.jpeg",
+          "Pollen mature":"picual_pollen_0.jpeg",
+          "Pollen germ 6h":"picual_pollen_3.jpeg",
+          "Flowers":"picual_flowers.jpeg",
+          "Fruits":"picual_fruits.jpeg",
+          "Seeds":"picual_seeds.jpeg",
+          "Testa+Endosperm":"picual_testa.jpeg",
+          "Embryo":"picual_embryos.jpeg"
+        }
+    },
+  "02 Picual plant organs.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"02_organs.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Roots":"root_control_drawing.jpg",
+          "Stem":"picual_stem.jpeg",
+          "Meristem":"picual_meristem.jpeg",
+          "Leaves":"picual_leaves.jpeg",
+          "Flowers":"picual_flowers.jpeg",
+          "Fruits":"picual_fruits.jpeg"
+        }
+    },
+  "03 Picual pollen germination.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"03_pollen.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Pollen mature":"picual_pollen_0.jpeg",
+          "Pollen germ 1h":"picual_pollen_1.jpeg",
+          "Pollen germ 3h":"picual_pollen_2.jpeg",
+          "Pollen germ 6h":"picual_pollen_3.jpeg"
+        }
+    },
+  "04 Picual whole seed.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"04_seeds.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Seeds":"picual_seeds.jpeg",
+          "Testa+Endosperm":"picual_testa.jpeg",
+          "Embryo":"picual_embryos.jpeg"
+        }
+
+    },
+    "05 Picual stresses.txt":
+      {
+        "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+        "description":"05_stresses.php",
+				"annotation_file":"Olea_europaea_v061_annotations.txt",
+        "images":
+          {
+            "Leaves control":"leaves_control.jpeg",
+            "Leaves Verticillium 15d":"leaf_verticillium_drawing.png",
+            "Leaves root wound 15d":"leaf_root_wound_drawing.png",
+            "Leaves cold 24h":"leaves_cold_24h.jpeg",
+            "Leaves cold 10d":"leaves_cold_10d.jpeg",
+            "Roots Verticillium 48h":"root_verticillium_drawing.jpg",
+            "Roots Verticillium 7d":"root_verticillium_drawing.jpg",
+            "Roots Verticillium 15d":"root_verticillium_drawing.jpg",
+            "Roots wound 8h":"root_wound_drawing.jpg",
+            "Roots wound 24h":"root_wound_drawing.jpg",
+            "Roots wound 48h":"root_wound_drawing.jpg",
+            "Roots wound 7d":"root_wound_drawing.jpg",
+            "Roots control":"roots_4_months.jpeg"
+          }
+      },
+  "06 Picual cold stress.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"06_cold.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Leaves control":"leaves_control.jpeg",
+          "Leaves cold 24h":"leaves_cold_24h.jpeg",
+          "Leaves cold 10d":"leaves_cold_10d.jpeg"
+        }
+    },
+  "07 Picual wound stress.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"07_wound.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Leaves control":"leaves_control.jpeg",
+          "Leaves root wound 15d":"leaf_root_wound_drawing.png",
+          "Roots wound 8h":"root_wound_drawing.jpg",
+          "Roots wound 24h":"root_wound_drawing.jpg",
+          "Roots wound 48h":"root_wound_drawing.jpg",
+          "Roots wound 7d":"root_wound_drawing.jpg",
+          "Roots control":"roots_4_months.jpeg"
+        }
+    },
+  "08 Picual Verticillium infection.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"08_verticillium.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+        {
+          "Leaves control":"verticillium_control.jpeg",
+          "Leaves Verticillium 15d":"verticillium_infected.jpeg",
+          "Roots Verticillium 48h":"root_verticillium_drawing.jpg",
+          "Roots Verticillium 7d":"root_verticillium_drawing.jpg",
+          "Roots Verticillium 15d":"root_verticillium_drawing.jpg",
+          "Roots control":"roots_4_months.jpeg"
+        }
+    },
+  "09 Roots of olive cultivars with variable tolerance to Verticillium.txt":
+    {
+      "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+      "description":"09_varieties_verticillium.php",
+			"annotation_file":"Olea_europaea_v061_annotations.txt",
+      "images":
+      {
+        "Frantoio":"root_control_drawing.jpg",
+        "Manzanillera de Huercal Overa":"root_control_drawing.jpg",
+        "Dokkar":"root_control_drawing.jpg",
+        "Koroneiki":"root_control_drawing.jpg",
+        "Leccino":"root_control_drawing.jpg",
+        "Maarri":"root_control_drawing.jpg",
+        "Maureya":"root_control_drawing.jpg",
+        "Uslu":"root_control_drawing.jpg",
+        "Arbequina":"root_control_drawing.jpg",
+        "Barnea":"root_control_drawing.jpg",
+        "Barri":"root_control_drawing.jpg",
+        "Fishomi":"root_control_drawing.jpg",
+        "Klon-14":"root_control_drawing.jpg",
+        "Lianolia Kerkyras":"root_control_drawing.jpg",
+        "Manzanilla de Sevilla":"root_control_drawing.jpg",
+        "Morrut":"root_control_drawing.jpg",
+        "Myrtolia":"root_control_drawing.jpg",
+        "Picual":"root_control_drawing.jpg",
+        "Picudo":"root_control_drawing.jpg",
+        "Piñonera":"root_control_drawing.jpg",
+        "Verdial de Vélez Málaga":"root_control_drawing.jpg",
+        "Abbadi Abou Gabra":"root_control_drawing.jpg",
+        "Abou Salt Mohazam":"root_control_drawing.jpg",
+        "Chemlal de Kabylie":"root_control_drawing.jpg",
+        "Llumeta":"root_control_drawing.jpg",
+        "Menya":"root_control_drawing.jpg",
+        "Temprano":"root_control_drawing.jpg",
+        "Jabali":"root_control_drawing.jpg",
+        "Mastoidis":"root_control_drawing.jpg",
+        "Abou Kanani":"root_control_drawing.jpg",
+        "Forastera de Tortosa":"root_control_drawing.jpg",
+        "Grappolo":"root_control_drawing.jpg",
+        "Kalamon":"root_control_drawing.jpg",
+        "Majhol-1013":"root_control_drawing.jpg",
+        "Majhol-152":"root_control_drawing.jpg",
+        "Mari":"root_control_drawing.jpg",
+        "Megaritiki":"root_control_drawing.jpg",
+        "Shengeh":"root_control_drawing.jpg"
+      }
+    },
+  "10 Souri drought.txt":
+    {
+      "link":"https://phytozome-next.jgi.doe.gov/report/gene/Oeuropaea_v1_0/query_id",
+      "description":"10_Souri_drought.php",
+      "images":
+        {
+          "watered-3d":"watered_branch.jpg",
+          "watered13d":"watered_branch.jpg",
+          "watered27d":"watered_branch.jpg",
+          "watered80d":"watered_branch.jpg",
+          "drought-3d":"drought_branch.jpg",
+          "drought13d":"drought_branch.jpg",
+          "drought27d":"drought_branch.jpg",
+          "drought80d":"drought_branch.jpg"
+        }
+    }
+}
