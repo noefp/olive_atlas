@@ -1,21 +1,86 @@
-	<div class="width900" style="margin-top:20px">
-			<h1>Welcome to <?php echo "$dbTitle";?> </h1>
-      <h4 class="p_font18">
-        The gene expression atlas for Olive tree (<i>Olea europaea L.</i>)
-      </h4>
-      <br>
-      <p style="text-align:justify">
-        OliveAtlas aims to provide interactive bioinformatics tools to explore gene expression data of olive tree.
-        The current version of OliveAtlas includes data for most of the main organs of the olive tree variety Picual
-        (leaves, flower, pollen, fruits, seeds, roots, stem, and meristem),
-        and multiple responses to biotic and abiotic stresses such as cold, wound and infection of <i>Verticillium dahliaea</i>.
-      </p>
-      <p style="text-align:justify">
-        All the Picual expression data were analyzed based on the olive tree genome sequence published by <a href="https://doi.org/10.1002/tpg2.20010" target="_blank">Jiménez-Ruiz et al., 2020</a>
-        and all data are linked to sequences and annotations available at the <a href="https://genomaolivar.dipujaen.es/" target="_blank">OliveTreeDB</a>.
-      </p>
-      <img class='rounded' src='<?php echo "$images_path/header_img7.jpg";?>' style="width: 100%; max-width: 900px;" alt='img example'>
-			<br>
-			<br>
-			<?php include_once realpath("$custom_text_path/db_citation.php");?>
-	</div>
+<div class="header-content">
+  <br>
+  <h1 class="text-center">Welcome to <span style="color:#bb6;">Olive</span>Atlas</h1>
+  <h4>The gene expression atlas for Olive tree (<i>Olea europaea L.</i>)</h4>
+  <br>
+  <a href="/easy_gdb/about.php" class="btn-find-out-more no-link-style" style="background-color:#994; border: 1px solid #fff;"><b><span style="color:#fff;">Find out more</span></b></a>
+</div>
+
+
+<style>
+
+  .page_container {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    height: 95vh;
+    background: url("<?php echo $images_path.'/olive_landing.jpg' ?>") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5%;
+    position: relative;
+    background-size: cover;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .header-content {
+      max-width: 1200px;
+      margin-bottom: 50px;
+  }
+
+  h1 {
+      font-size: 5em;
+      font-weight: bold;
+      margin: 0;
+      line-height: 1.2;
+      color: #fff;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+
+  h4 {
+      font-size: 1.5em;
+      margin: 25px 0;
+      line-height: 1;
+      color: #fff;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+
+  .btn-find-out-more {
+      display: inline-block;
+      padding: 15px 30px;  
+      background-color: #459919;   
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 18px;
+  }
+
+  .btn-find-out-more:hover, 
+  .btn-find-out-more:focus {
+      text-decoration: none;  
+      color: white;  
+      background-color: #69a925;  
+  }
+
+  .no-link-style {
+      text-decoration: none;  
+      color: inherit;  
+  }
+
+  .no-link-style:active, .no-link-style:focus, .no-link-style:visited {
+      color: inherit;
+      text-decoration: none;   
+      outline: none;  
+  }
+
+  #gdb_footer {
+    margin-top: 0px !important;
+/*    position: fixed !important;*/
+    bottom: 0 !important;
+  }
+
+
+</style>

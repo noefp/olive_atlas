@@ -26,7 +26,7 @@ $dbTitle = "OliveAtlas";
 $db_logo = "OxA_logo.png";
 
 // Select 0 to disable the header image, or provide an image filename to display it.
-$header_img = "header_img3.jpg";
+$header_img = 0;
 
 //SWITCHES
 
@@ -41,7 +41,7 @@ $rm_jb_frame = 0;
 
 // Toolbar
 $tb_custom = 1;
-$tb_rm_home = 0;
+$tb_rm_home = 1;
 
 $tb_about = 0;
 $tb_downloads = 0;
@@ -65,7 +65,7 @@ $tb_more = 0;
 $tb_private = 0;
 
 // About
-$ab_citation = 1;
+$ab_citation = 0;
 $ab_labs = 0;
 
 // Expression Atlas

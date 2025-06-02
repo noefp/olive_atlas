@@ -1,3 +1,5 @@
+<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:#bb6;font-weight: 500;">Olive</span><span style="color:#fff">Atlas</span></a>
+
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">About</a>
   <div class="dropdown-menu">
@@ -7,7 +9,7 @@
 </li>
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
 <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><span style="color:#5d5">Expression Atlas</span></a>
+  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><span style="color:#bb6">Expression Atlas</span></a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input.php">Gene Expression Viewer</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/comparator_input.php">Expression comparator</a>
@@ -38,3 +40,23 @@
 			<a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php" target="_blank">Private Expression Atlas</a>
 		</div>
 </li>
+
+<style>
+.navbar {
+  background: linear-gradient(90deg, #333, #555, #662, #555);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .dropdown-menu {
+    background-color: #fff;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+    color: #333 !important;
+}
+
+</style>
