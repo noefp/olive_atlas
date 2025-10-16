@@ -63,6 +63,7 @@ $tb_gene_expr = 0;
 $tb_help = 0;
 $tb_more = 0;
 $tb_private = 0;
+$tb_passport = 0;
 
 // About
 $ab_citation = 0;
