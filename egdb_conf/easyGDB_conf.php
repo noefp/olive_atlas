@@ -1,4 +1,6 @@
 <?php
+$warning_debug = 0;
+
 // File paths
 $root_path = "/var/www/html"; //use absolute path
 $egdb_files_folder = "olive_atlas";
