@@ -190,4 +190,13 @@
           "drought80d":"drought_branch.jpg"
         }
     }
+    "11 Picual drought stress Koroneiki and Martina.txt":
+      {
+        "link":"https://genomaolivar.dipujaen.es/db/otdb_gene.php?name=query_id",
+        "description":"01_koroneiki_drought.php",
+        "images":
+          {
+          }
+      }         
+
 }
