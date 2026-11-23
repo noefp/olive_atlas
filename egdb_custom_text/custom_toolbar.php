@@ -13,7 +13,7 @@
     <a class="dropdown-item" href="/easy_gdb/tools/search/search_input.php">Annotation Search</a>
     <a class="dropdown-item" href="/easy_gdb/tools/blast/blast_input.php">BLAST</a>
     <!-- <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=genome_browser.php">Genome Browser</a> -->
-    <a class="dropdown-item" href="/easy_gdb/tools/seq_exp/seq_exp_input.php">Sequence Explorer</a>
+    <!-- <a class="dropdown-item" href="/easy_gdb/tools/seq_exp/seq_exp_input.php">Sequence Explorer</a> -->
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/gene_enrichment.php">Gene Set Enrichment</a>
