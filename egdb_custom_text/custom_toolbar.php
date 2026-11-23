@@ -7,7 +7,19 @@
     <a class="dropdown-item" href="/easy_gdb/help/00_help.php">Help</a>
   </div>
 </li>
-<li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Tools</a>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="/easy_gdb/tools/search/search_input.php">Annotation Search</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/blast/blast_input.php">BLAST</a>
+    <!-- <a class="dropdown-item" href="/easy_gdb/custom_view.php?file_name=genome_browser.php">Genome Browser</a> -->
+    <a class="dropdown-item" href="/easy_gdb/tools/seq_exp/seq_exp_input.php">Sequence Explorer</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/gene_enrichment.php">Gene Set Enrichment</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/gene_lookup.php">Gene Lookup</a>
+  </div>
+</li>
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"><span style="color:#bb6">Expression Atlas</span></a>
   <div class="dropdown-menu">
@@ -16,14 +28,10 @@
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_menu.php">Datasets</a>
   </div>
 </li>
-<li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Other Tools</a>
-  <div class="dropdown-menu">
-    <a class="dropdown-item" href="/easy_gdb/tools/gene_enrichment.php">Gene Set Enrichment</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/gene_lookup.php">Gene Lookup</a>
-  </div>
-</li>
-<li class="nav-item dropdown">
+
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
+
+<!-- <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">OliveTreeDB</a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/db/index.php" target="_blank">OliveTreeDB</a>
@@ -33,12 +41,13 @@
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/jbrowse" target="_blank">Genome Browser</a>
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/db/otdb_fasta_download.php" target="_blank">Sequence Extraction</a>
     <a class="dropdown-item" href="https://genomaolivar.dipujaen.es/db/otdb_annot_input_list.php" target="_blank">Annotation Extraction</a>
-  </div>
-	<li class="nav-item dropdown">
-	  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
-	  <div class="dropdown-menu">
-			<a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php" target="_blank">Private Expression Atlas</a>
-		</div>
+  </div> 
+</li>-->
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Private</a>
+	<div class="dropdown-menu">
+		<a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input_private.php" target="_blank">Private Expression Atlas</a>
+	</div>
 </li>
 
 <style>
