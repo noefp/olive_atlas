@@ -1,0 +1,44 @@
+{
+  "Oeuropaea_arbequina.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Arbequina",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Farbequina&loc={gene_name}&tracks=DNA%2Carbequina_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_arbequina_vR1_CDS.fasta","Oeuropaea_arbequina_vR1_transcripts.fasta","Oeuropaea_arbequina_vR1_proteins.fasta"]
+  },
+  "Oeuropaea_farga.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Farga",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Ffarga&loc={gene_name}&tracks=DNA%2Cfarga_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_farga_CDS.fasta","Oeuropaea_farga_transcripts.fasta","Oeuropaea_farga_proteins.fasta"]
+  },
+  "Oeuropaea_frantoio.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Frantoio",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Ffrantoio&loc={gene_name}&tracks=DNA%2Cfrantoio_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_frantoio_vH1_CDS.fasta","Oeuropaea_frantoio_vH1_transcripts.fasta","Oeuropaea_frantoio_vH1_proteins.fasta"]
+  },
+  "Oeuropaea_leccino.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Leccino",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fleccino&loc={gene_name}&tracks=DNA%2Cleccino_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_leccino_vR1_CDS.fasta","Oeuropaea_leccino_vR1_transcripts.fasta","Oeuropaea_leccino_vR1_proteins.fasta"]
+  },
+  "Oeuropaea_picual.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Picual",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fpicual&loc={gene_name}&tracks=DNA%2Cpicual_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_picual_CDS.fasta","Oeuropaea_picual_transcripts.fasta","Oeuropaea_picual_proteins.fasta"]
+  },
+  "Oeuropaea_sylvestris.txt": {
+    "displayed_name":"<i>Olea europaea</i> cv. Sylvestris",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fsylvestris&loc={gene_name}&tracks=DNA%2Csylvestris_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_sylvestris_CDS.fasta","Oeuropaea_sylvestris_transcripts.fasta","Oeuropaea_sylvestris_proteins.fasta"]
+  },
+  "Oeuropaea_cuspidata.txt": {
+    "displayed_name":"<i>Olea europaea</i> subsp. cuspidata",
+    "description":"",
+    "jbrowse":"/jbrowse/?data=data%2Fcuspidata&loc={gene_name}&tracks=DNA%2Ccuspidata_gene_models",
+    "gene_blast_dbs": ["Oeuropaea_cuspidata_vH1_CDS.fasta","Oeuropaea_cuspidata_vH1_transcripts.fasta","Oeuropaea_cuspidata_vH1_proteins.fasta"]
+  }
+}
